@@ -85,6 +85,7 @@ dataMapped.forEach((entry) => {
   pObj.addLineBreak();
   pObj.addLineBreak();
   pObj.addText(`You're getting a guarantee price, & closing date without any contingencies, so that you can start to plan for the future.`, standardOptions)
+  pObj.genobj.addPageBreak()
 });
 
 let out = fs.createWriteStream('generated-seller-letters.docx');
