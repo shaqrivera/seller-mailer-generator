@@ -11,8 +11,18 @@
   - [License](#license)
   ## Installation
   After downloading the project to your local system, use the terminal to navigate to the directory where the project is saved. Execute the following command `npm i` in order to install all the required dependencies for the project.
+  <img width="689" alt="Screenshot 2023-07-29 at 4 43 20 PM" src="https://github.com/shaqrivera/seller-mailer-generator/assets/90933707/f8f8e96a-b17d-426c-ac34-5ff67c215acf">
+
   ## Usage
-  Once all the dependencies are installed, the project is ready to use. Inside the project directory, save your desired .csv file with the name `seller-data.csv`. After ensuring you've saved your .csv file with the correct name in the correct directory, use the terminal to execute the following command `npm start`. If everything is successful, you should see a message in the terminal, and there should be a newly created file, named `generated-seller-letters.docx` in the project directory.
+  Once all the dependencies are installed, the project is ready to use. Inside the project directory, save your desired .csv file with the name `seller-data.csv`.
+<img width="921" alt="Screenshot 2023-07-29 at 4 31 42 PM" src="https://github.com/shaqrivera/seller-mailer-generator/assets/90933707/7ff1d50f-06f8-4ca7-9e65-f1916ddac0a0">
+  
+  After ensuring you've saved your .csv file with the correct name in the correct directory, use the terminal to execute the following command `npm start`. 
+  <img width="689" alt="Screenshot 2023-07-29 at 4 44 08 PM" src="https://github.com/shaqrivera/seller-mailer-generator/assets/90933707/488832f5-6194-43a1-96d7-4349eac596ca">
+
+  If everything is successful, you should see a message in the terminal, and there should be a newly created file, named `generated-seller-letters.docx` in the project directory.
+  <img width="917" alt="Screenshot 2023-07-29 at 4 45 45 PM" src="https://github.com/shaqrivera/seller-mailer-generator/assets/90933707/8075320c-0d9f-434f-8b29-2f58141a540f">
+
   
   ## Contributing
   If you have any feature requests for this, just contact me.
