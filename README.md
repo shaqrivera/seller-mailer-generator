@@ -17,13 +17,13 @@
   
 
   ## Usage
-  Once all the dependencies are installed, the project is ready to use. Inside the project directory, save your desired .csv file with the name `seller-data.csv`.
+  Once all the dependencies are installed, the project is ready to use. Inside the project directory, save your desired .csv file with the name `seller-data.csv`. Save your template for the letters with the name `letter-template.docx`. Save your template for the envelopes with the name `envelope-template.docx`.
 
-  
-<img width="921" alt="Screenshot 2023-07-29 at 4 31 42 PM" src="https://github.com/shaqrivera/seller-mailer-generator/assets/90933707/7ff1d50f-06f8-4ca7-9e65-f1916ddac0a0">
 
+<img width="917" alt="Screenshot 2023-07-30 at 6 23 44 PM" src="https://github.com/shaqrivera/seller-mailer-generator/assets/90933707/5462b1bc-4266-4036-a75c-7883b0c76df5">
   
-  After ensuring you've saved your .csv file with the correct name in the correct directory, use the terminal to execute the following command `npm start`. 
+  
+  After ensuring you've saved your files with the correct names in the correct directory, use the terminal to execute the following command `npm start`. 
 
   
   <img width="689" alt="Screenshot 2023-07-29 at 4 44 08 PM" src="https://github.com/shaqrivera/seller-mailer-generator/assets/90933707/488832f5-6194-43a1-96d7-4349eac596ca">
@@ -31,9 +31,7 @@
 
   If everything is successful, you should see a message in the terminal, and there should be a newly created file, named `generated-seller-letters.docx` in the project directory.
 
-  
-  <img width="917" alt="Screenshot 2023-07-29 at 4 45 45 PM" src="https://github.com/shaqrivera/seller-mailer-generator/assets/90933707/e3fc352e-74d5-4b9d-8350-0b9fccdb3c91">
-
+  <img width="917" alt="Screenshot 2023-07-30 at 6 39 50 PM" src="https://github.com/shaqrivera/seller-mailer-generator/assets/90933707/5660d8bb-ce9a-4ccd-8f97-c398f924f8c4">
 
   
   ## Contributing
