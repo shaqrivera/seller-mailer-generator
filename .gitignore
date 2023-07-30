@@ -131,6 +131,7 @@ dist
 
 # Project specific
 generated-seller-letters.docx
+generated-envelopes.docx
 seller-data.csv
 
 .DS_Store
