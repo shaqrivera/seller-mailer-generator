@@ -14,6 +14,14 @@
 
   
   <img width="689" alt="Screenshot 2023-07-29 at 4 43 20 PM" src="https://github.com/shaqrivera/seller-mailer-generator/assets/90933707/f8f8e96a-b17d-426c-ac34-5ff67c215acf">
+
+  ## Creating Templates
+Creating a template is simple. Any `.docx` file can be used as a template. Simply add `{#loop}` to the beginning of your template, and `{/loop}` at the end of your template. Anywhere within the template that you want to use data from the `.csv` file, simply include the name of the data column you'd like to display between brackets in your template. So for example, to include the owner's full name in your template, add `{owner}` to the template where you would like it to appear.
+
+### Full list of supported data columns
+ - Owner -> `{owner}`
+ - Mailing Address 1 -> `{mailingAddress1}`
+ - Mailing Address 3 -> `{mailingAddress3}`
   
 
   ## Usage
