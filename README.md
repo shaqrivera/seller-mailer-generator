@@ -4,7 +4,7 @@
   This project takes a dynamic list of property owners from a .csv file and creates marketing letters for each owner.
   ## Table of Contents
   - [Installation](#installation)
-  - [Creating Templates](#creating)
+  - [Creating Templates](#creating-templates)
   - [Usage](#usage)
   - [Contributing](#contributing)
   - [Tests](#tests)
